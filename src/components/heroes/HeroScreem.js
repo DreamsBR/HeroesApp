@@ -48,7 +48,7 @@ export const HeroScreem = ({history}) => {
                     <p className="text-center">{characters}</p>
                 </div>
             <button
-                className="btn btn-ouline-info float-right"
+                className="btn btn-outline-info float-right"
                 onClick={handleReturn}
             >
                 Retun
